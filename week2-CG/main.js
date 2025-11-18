@@ -21,11 +21,11 @@ document.body.appendChild(renderer.domElement);
 // const material = new THREE.MeshStandardMaterial({ color: 0xff0000 });
 // const cubeMesh = new THREE.Mesh(geometry, material);
 // scene.add(cubeMesh);
-//change position- translate - zhvendos
+// // change position- translate - zhvendos
 // cubeMesh.position.x=0.7;
 // cubeMesh.position.y=-0.6;
 // cubeMesh.position.z=0.5;
-//e njejta ne nji rresht 
+// // e njejta ne nji rresht 
 // cubeMesh.position.set(1,0.6,0.5)
 
 //distanca e kubit dhe kameres per ta gjetur objektin nese nuk eshte ne frame
